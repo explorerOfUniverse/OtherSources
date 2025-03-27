@@ -3,6 +3,6 @@
   icons: [
     {
       name: 'LiuStar',
-      url: './icon/.png',
+      url: './icon/liuStar.png',
     }
 }
