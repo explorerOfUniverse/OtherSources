@@ -1,8 +1,9 @@
 {
-  name: 'embyIcons',
-  icons: [
+  "name": "embyIcons",
+  "icons": [
     {
-      name: 'LiuStar',
-      url: './icon/liuStar.png',
+      "name": "LiuStar",
+      "url": "./icon/liuStar.png"
     }
+  ]
 }
