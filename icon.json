@@ -1,1 +1,8 @@
-{name: 'ggjh'}
+{
+  name: 'embyIcons',
+  icons: [
+    {
+      name: 'LiuStar',
+      url: './icon/.png',
+    }
+}
